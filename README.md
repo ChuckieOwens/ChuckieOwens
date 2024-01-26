@@ -1,9 +1,9 @@
-<h1>Hi, I'm Charles! <br/><a href=>Cybersecurity Professional</a>
+<h1>Hi, I'm Charles! <br/><a href=>Aspiring Cybersecurity Professional</a>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Cybersecurity Projects/Labs:</h2>
 
 - <b>Create Azure Virtual Machine & Deploy Web Server </b>
-- <b>ADD ANOTHER PROJECT </b>
+- <b>Create A Group and Add A Member In Microsoft Entra ID (Azure Active Directory) </b>
 
 <h2>📃 Certifications & Certificates:</h2>
 
